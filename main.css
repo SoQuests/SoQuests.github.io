@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2012_1002 {
+  width: 390px;
+  height: 844px;
+  background: rgba(13,13,13,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2245_1643 {
+  width: 390px;
+  height: 844px;
+  background: url("../images/v2245_1643.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.800000011920929;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2245_1644 {
+  width: 390px;
+  height: 844px;
+  background: rgba(0,0,0,0.25);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2133_855 {
+  width: 390px;
+  height: 307px;
+  background: url("../images/v2133_855.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 537px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2133_856 {
+  width: 390px;
+  height: 307px;
+  background: rgba(136,255,80,0.8999999761581421);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  overflow: hidden;
+}
+.v2133_857 {
+  width: 319px;
+  color: rgba(19,17,18,1);
+  position: absolute;
+  top: 30px;
+  left: 37px;
+  font-family: Futura Md BT;
+  font-weight: Medium;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2133_846 {
+  width: 179px;
+  height: 192px;
+  background: url("../images/v2133_846.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 558px;
+  left: 109px;
+  overflow: hidden;
+}
+.v2245_1316 {
+  width: 130px;
+  height: 53px;
+  background: url("../images/v2245_1316.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 762px;
+  left: 134px;
+  overflow: hidden;
+}
+.v2245_1317 {
+  width: 130px;
+  height: 53px;
+  background: rgba(0,0,0,0.15000000596046448);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 1.5px solid rgba(255,255,255,1);
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v2245_1318 {
+  width: 48px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 15px;
+  left: 41px;
+  font-family: Futura Md BT;
+  font-weight: Medium;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
